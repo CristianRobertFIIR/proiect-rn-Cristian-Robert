@@ -3,7 +3,7 @@
 **Disciplina:** Rețele Neuronale  
 **Instituție:** POLITEHNICA București – FIIR  
 **Student:** [Cristian Robert-Mihai]  
-**Link Repository GitHub:** [https://github.com/CristianRobertFIIR/ProiectRecunoasterePasariRN]  
+**Link Repository GitHub:** [https://github.com/CristianRobertFIIR/proiect-rn-Cristian-Robert]  
 **Data predării:** [15/1/2026]
 
 ---
